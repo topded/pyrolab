@@ -3,17 +3,4 @@ numpy
 pandas
 matplotlib
 scikit-learn
-
-streamlit
-numpy
-pandas
-matplotlib
-scikit-learn
-
-streamlit
-numpy
-pandas
-matplotlib
-scikit-learn
-
 fpdf
