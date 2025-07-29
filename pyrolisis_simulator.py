@@ -101,7 +101,7 @@ def build_realtime_chart(temp_profile, delay=0.1):
         sleep(delay)
 
 # ====== Streamlit App UI ======
-st.set_page_config(page_title="PyroLab - Pirolisis Plastik v1.0", layout="wide")
+st.set_page_config(page_title="PiroFuel Lab - Pirolisis Plastik v1.0", layout="wide")
 st.markdown("""
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 """, unsafe_allow_html=True)
@@ -109,8 +109,8 @@ st.markdown("""
 
 # ====== HEADER UTAMA ======
 st.markdown("""
-<h1 style='text-align: center;'>🧪 PyroLab – Pirolisis Virtual Lab</h1>
-<h4 style='text-align: center; margin-top: -15px;'>Version 1.0 · Developed by <span style='color: #4CAF50;'>Rifki Maulana</span></h4>
+<h1 style='text-align: center;'>🧪 PiroFuel – Pirolisis Virtual Lab</h1>
+<h4 style='text-align: center; margin-top: -15px;'>Version 1.0 · Developed by <span style='color: #4CAF50;'>TechCava</span></h4>
 <p style='text-align: center;'>
        <a href='https://github.com/' target='_blank' style='text-decoration: none; margin: 0 10px;'>
         <i class='fab fa-github'></i> GitHub
@@ -285,7 +285,7 @@ st.markdown("""<hr style="margin-top: 40px;"/>""", unsafe_allow_html=True)
 
 st.markdown("""
 <div style='text-align: center; font-size: 0.9em; color: grey;'>
-    🔬 © 2025 <strong>PyroLab</strong> &nbsp;|&nbsp; Built with ❤️ by 
+    🔬 © 2025 <strong>PiroFuel</strong> &nbsp;|&nbsp; Built with ❤️ by 
     <a href="https://github.com/" target="_blank">Rifki Maulana</a> 🚀
 </div>
 """, unsafe_allow_html=True)
